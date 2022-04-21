@@ -1,5 +1,5 @@
 # githubstart
 
-#### Projet collaboratif 
+## Projet collaboratif 
 
 # A faire : Ajouter un fichier "gitignore"
